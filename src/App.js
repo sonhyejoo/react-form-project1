@@ -1,9 +1,8 @@
-import React from 'react';
+import React from "react";
+import UserRegistration from "./UserRegistration";
 
 function App() {
-  return (
-    <h1>Hello world!</h1>
-  );
+  return <UserRegistration />;
 }
 
 export default App;
